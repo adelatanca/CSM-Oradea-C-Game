@@ -1,1 +1,1 @@
-# CSM-Oradea-C-Game
+# CSM-Oradea-C++Game
